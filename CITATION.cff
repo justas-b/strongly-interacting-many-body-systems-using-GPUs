@@ -1,1 +1,8 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Justas"
+  given-names: "Bauras"
+title: "Simulating the Quantum Dynamics of Many-Body Systems using Graphical Processor Units"
+date-released: 2022
+url: "https://github.com/justas-b/strongly_interacting_many_body_systems_using_GPUs"
